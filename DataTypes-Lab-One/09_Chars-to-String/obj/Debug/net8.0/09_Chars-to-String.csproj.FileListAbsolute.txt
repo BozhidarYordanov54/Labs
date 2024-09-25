@@ -1,0 +1,4 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/09_Chars-to-String/obj/Debug/net8.0/09_Chars-to-String.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/09_Chars-to-String/obj/Debug/net8.0/09_Chars-to-String.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/09_Chars-to-String/obj/Debug/net8.0/09_Chars-to-String.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/09_Chars-to-String/obj/Debug/net8.0/09_Chars-to-String.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/bin/Debug/net8.0/10_Lower-or-Upper
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/bin/Debug/net8.0/10_Lower-or-Upper.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/bin/Debug/net8.0/10_Lower-or-Upper.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/bin/Debug/net8.0/10_Lower-or-Upper.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/bin/Debug/net8.0/10_Lower-or-Upper.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/refint/10_Lower-or-Upper.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/10_Lower-or-Upper.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/10_Lower-or-Upper/obj/Debug/net8.0/ref/10_Lower-or-Upper.dll

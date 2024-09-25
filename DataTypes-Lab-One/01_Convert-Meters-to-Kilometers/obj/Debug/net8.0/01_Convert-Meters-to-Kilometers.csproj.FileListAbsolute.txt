@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/bin/Debug/net8.0/01_Convert-Meters-to-Kilometers
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/bin/Debug/net8.0/01_Convert-Meters-to-Kilometers.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/bin/Debug/net8.0/01_Convert-Meters-to-Kilometers.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/bin/Debug/net8.0/01_Convert-Meters-to-Kilometers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/bin/Debug/net8.0/01_Convert-Meters-to-Kilometers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/refint/01_Convert-Meters-to-Kilometers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/01_Convert-Meters-to-Kilometers.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/01_Convert-Meters-to-Kilometers/obj/Debug/net8.0/ref/01_Convert-Meters-to-Kilometers.dll

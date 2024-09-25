@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/bin/Debug/net8.0/04_Centuries-to-Minutes
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/bin/Debug/net8.0/04_Centuries-to-Minutes.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/bin/Debug/net8.0/04_Centuries-to-Minutes.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/bin/Debug/net8.0/04_Centuries-to-Minutes.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/bin/Debug/net8.0/04_Centuries-to-Minutes.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/refint/04_Centuries-to-Minutes.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/04_Centuries-to-Minutes.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/04_Centuries-to-Minutes/obj/Debug/net8.0/ref/04_Centuries-to-Minutes.dll

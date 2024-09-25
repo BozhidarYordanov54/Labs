@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/bin/Debug/net8.0/02_Pound-to-Dollars
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/bin/Debug/net8.0/02_Pound-to-Dollars.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/bin/Debug/net8.0/02_Pound-to-Dollars.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/bin/Debug/net8.0/02_Pound-to-Dollars.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/bin/Debug/net8.0/02_Pound-to-Dollars.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/refint/02_Pound-to-Dollars.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/02_Pound-to-Dollars.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/02_Pound-to-Dollars/obj/Debug/net8.0/ref/02_Pound-to-Dollars.dll

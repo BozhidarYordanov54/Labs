@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/bin/Debug/net8.0/05_Special-Numbers
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/bin/Debug/net8.0/05_Special-Numbers.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/bin/Debug/net8.0/05_Special-Numbers.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/bin/Debug/net8.0/05_Special-Numbers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/bin/Debug/net8.0/05_Special-Numbers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/refint/05_Special-Numbers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/05_Special-Numbers.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/05_Special-Numbers/obj/Debug/net8.0/ref/05_Special-Numbers.dll

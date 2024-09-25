@@ -1,0 +1,14 @@
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/bin/Debug/net8.0/03_Exact-Sum-of-Real-Numbers
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/bin/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.deps.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/bin/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.runtimeconfig.json
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/bin/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/bin/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.AssemblyInfoInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.AssemblyInfo.cs
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.csproj.CoreCompileInputs.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/refint/03_Exact-Sum-of-Real-Numbers.dll
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.pdb
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/03_Exact-Sum-of-Real-Numbers.genruntimeconfig.cache
+/home/bozhidar/Codes/SoftUni_Classes/9D/01_DataTypes/Lab/03_Exact-Sum-of-Real-Numbers/obj/Debug/net8.0/ref/03_Exact-Sum-of-Real-Numbers.dll
